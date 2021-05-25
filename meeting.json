@@ -1,7 +1,12 @@
-
-    {
-  
-      "userName": "unit@TwoYongeStreet.com",
-      "password": "Password1!",
-      "ExpectedData": true
-    }
+[
+  {
+    "userName": "unit1@TwoYongeStreet.com",
+    "password": "Password1!",
+    "ExpectedData": true
+  },
+  {
+    "userName": "unit2@TwoYongeStreet.com",
+    "password": "Password1!",
+    "ExpectedData": true
+  }
+]
